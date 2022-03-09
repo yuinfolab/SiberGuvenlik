@@ -1,0 +1,9 @@
+Uygulamalı network oluşturma eğitimi:
+- MikroTik RouterOS (https://mikrotik.com/download)
+- MikroTik WinBox (https://mikrotik.com/download)
+- VMware
+
+Network üzerinde uygulamalı saldırı:
+- Bettercap arp.spoof (https://www.bettercap.org/modules/ethernet/spoofers/arp.spoof/)
+- Bettercap dns.spoof (https://www.bettercap.org/modules/ethernet/spoofers/dns.spoof/)
+- SYN Flood Attack Tool (https://github.com/EmreOvunc/Python-SYN-Flood-Attack-Tool)
